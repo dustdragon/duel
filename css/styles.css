@@ -1,0 +1,23 @@
+/* Welcome to STYLES! */
+
+/* overwrite an html element like this */
+
+/* define default font for the the page using hte body tag */
+body {
+    font-family: Verdana, Geneva, Helvetica, Arial, sans-serif;
+}
+
+/* create a new, custom style */
+.intro {
+    color: #5500FF;
+}
+
+/*  create a new style based on element id 
+    (common with DIV tags and layout */
+#fight-header {
+    color: #999900;
+}
+#enemy-fight-header {
+    color: #990000;
+}#fight {	width: 100%;}#player-fight {	width: 49%;	display: inline-block;	float: left;	padding: 4px;}
+#enemy-fight {	width: 49%;	display: inline-block;	float: left;	padding: 4px;}
